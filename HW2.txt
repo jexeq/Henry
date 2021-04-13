@@ -14,4 +14,4 @@ declaracion if:
 
 valores booleanos:
  son tipos de datos que pueden tomar solo los valores true (verdadero) o false (falso) y que se utilizaran para realizar operaciones despues
-  
+   
