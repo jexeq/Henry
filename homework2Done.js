@@ -258,6 +258,7 @@ function esVocal(letra){
   if (largo===1) {
     if (letra=='a'||letra=='e'||letra=='i'||letra=='o'||letra=='u') {
       return 'Es vocal';
+      
     }
   }
   else {
